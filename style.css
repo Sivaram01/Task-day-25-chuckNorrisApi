@@ -1,0 +1,20 @@
+body{
+  background-color: rgb(110, 203, 243);
+  color: white;
+  font-family: 'Playfair Display', serif;
+}
+
+.chucksField{
+  text-align: center;
+}
+.card{
+  margin: 25px auto;
+  text-align: center;
+}
+
+button{
+  transition: all 0.2s;
+}
+button:hover{
+  transform: translateY(-2px);
+}
